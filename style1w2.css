@@ -1,0 +1,44 @@
+body {
+    background-image: url(image.jpg);
+   height: 100vh;
+   background-position: center;
+   background-size: cover;
+    
+    
+}
+h1 {
+    font-size: x-large;
+    text-align: center;
+    color: red;
+    background-color: white;
+    width: fit-content;
+    padding: 10px;
+    margin-left: 500px;
+    border: 10px solid teal;
+    border-radius: 50px;
+    font-style: italic;
+}
+p {
+    text-align: center;
+    text-align: justify;
+    font-weight: bold;
+    background-color: aqua;
+    margin: auto;
+    padding: 10px;
+    margin-top: 100px;
+    border: 10px solid white;
+    outline: 5px solid yellow;
+    border-radius: 15px;
+}
+button {
+    padding: 15px 30px;
+    font-size: 25px;
+    background-color: aqua;
+    color: black;
+    border: 5px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 600px;
+  }

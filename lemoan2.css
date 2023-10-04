@@ -1,0 +1,231 @@
+body {
+    background-image: url(pucca.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+ul {
+    font-size: x-large;
+    text-align: center;
+    color: red;
+    background-color: white;
+    width: fit-content;
+    padding: 5px;
+    margin-left: 500px;
+    border: 10px solid teal;
+    border-radius: 50px;
+    font-style: italic;
+    
+}
+
+.zoom-wrapper {
+    height: 200px;
+    overflow: hidden;
+    border-radius: none;
+    
+}
+.zoom-wrapper img {
+    object-fit: cover;
+    transition: 0.8s;
+    height: 100%;
+
+}
+.zoom-wrapper:hover img {
+    transform: scale(1.2);
+}
+.zoom-wrapper{
+    padding: 10px;
+    margin-left: 20px ;
+    text-align: justify;
+    position: relative;
+}
+h3{
+    margin-left: 400px;
+  position: absolute;
+  margin-bottom: 200px;
+  font-style: italic;
+  color: chocolate;
+  background-color: white;
+    padding: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px    ;
+}
+h2{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 40px;
+    color: chocolate;
+    background-color: white;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px    ;
+
+}
+.ambot {
+    height: 200px;
+    overflow: hidden;
+    border-radius: none;
+}
+.ambot img {
+ object-fit: cover;
+    transition: 0.8s;
+    height: 100%;
+}
+.ambot:hover img {
+    transform: scale(1.2);
+}
+.ambot{
+    padding: 10px;
+    margin-left: 20px ;
+    text-align: justify;
+    position: relative;
+}
+.ambot h3 {
+    padding: 10px;
+
+}
+.image {
+    height: 200px;
+    overflow: hidden;
+    border-radius: none;
+}
+.image img {
+ object-fit: cover;
+    transition: 0.8s;
+    height: 100%;
+}
+.image:hover img {
+    transform: scale(1.2);
+}
+.image{
+    padding: 10px;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    margin-left: 20px ;
+    text-align: justify;
+    position: relative;
+}
+.image h3 {
+    border-radius: 10px;
+    padding: 10px;
+    font-size: large;
+}
+.hello {
+    margin-left: 50px;
+    position: relative;
+    margin-top: 20px;
+}
+.hello {
+    height: 200px;
+    overflow: hidden;
+    border-radius: none;
+}
+.hello img {
+ object-fit: cover;
+    transition: 0.8s;
+    height: 100%;
+}
+.hello:hover img {
+    transform: scale(1.2);
+}
+.hello p {
+    font-weight: bold;
+    margin-left: 380px;
+    font-style: italic;
+    text-align: justify ;
+    color: chocolate;
+    background-color: white;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px    ;
+    font-weight: bold;
+    font-size: large;
+}
+.naga {
+    margin-left: 50px;
+    position: relative;
+    margin-top: 20px;
+}
+.naga {
+    height: 200px;
+    overflow: hidden;
+    border-radius: none;
+}
+.naga img {
+ object-fit: cover;
+    transition: 0.8s;
+    height: 100%;
+}
+.naga:hover img {
+    transform: scale(1.2);
+}
+.naga p {
+    font-weight: bold;
+    margin-left: 380px;
+    font-style: italic;
+    text-align: justify ;
+    color: chocolate;
+    background-color: white;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px    ;
+    font-weight: bold;
+    font-size: large;
+}
+.ila {
+    margin-left: 50px;
+    position: relative;
+    margin-top: 20px;
+}
+.ila {
+    height: 200px;
+    overflow: hidden;
+    border-radius: none;
+}
+.ila img {
+ object-fit: cover;
+    transition: 0.8s;
+    height: 100%;
+}
+.ila:hover img {
+    transform: scale(1.2);
+}
+.ila p {
+    font-weight: bold;
+    margin-left: 380px;
+    font-style: italic;
+    text-align: justify ;
+    color: chocolate;
+    background-color: white;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px    ;
+    font-weight: bold;
+    font-size: large;
+}
+.test h3 {
+    text-align: justify;
+    margin-right: 290px;
+}
+.buttones {
+    margin-top: 300px;
+}
+.buttones button {
+    padding: 10px;
+    font-size: 25px;
+    background-color: aqua;
+    color: black;
+    border: 5px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 420px;
+}
